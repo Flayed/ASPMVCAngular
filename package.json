@@ -1,0 +1,37 @@
+{
+  "name": "aspmvcangular",
+  "version": "1.0.0",
+  "description": "An example of how to use ASP.NET MVC, Web API, and AngularJS together with Visual Studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flayed/ASPMVCAngular.git"
+  },
+  "keywords": [
+    "ASP.NET",
+    "MVC",
+    "WebAPI",
+    "AngularJS"
+  ],
+  "author": "Robert P. Darchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flayed/ASPMVCAngular/issues"
+  },
+  "homepage": "https://github.com/Flayed/ASPMVCAngular#readme",
+  "dependencies": {
+    "angular": "^1.4.3",
+    "angular-animate": "^1.4.3",
+    "angular-ui-router": "^0.2.15",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-if": "^1.2.5",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-watch": "^4.3.4",
+    "run-sequence": "^1.1.2"
+  }
+}
